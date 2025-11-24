@@ -1,0 +1,11 @@
+H:\source\Arohan.TMS\src\Arohan.TMS.DOmain\bin\Debug\net10.0\Arohan.TMS.Domain.deps.json
+H:\source\Arohan.TMS\src\Arohan.TMS.DOmain\bin\Debug\net10.0\Arohan.TMS.Domain.dll
+H:\source\Arohan.TMS\src\Arohan.TMS.DOmain\bin\Debug\net10.0\Arohan.TMS.Domain.pdb
+H:\source\Arohan.TMS\src\Arohan.TMS.DOmain\obj\Debug\net10.0\Arohan.TMS.Domain.GeneratedMSBuildEditorConfig.editorconfig
+H:\source\Arohan.TMS\src\Arohan.TMS.DOmain\obj\Debug\net10.0\Arohan.TMS.Domain.AssemblyInfoInputs.cache
+H:\source\Arohan.TMS\src\Arohan.TMS.DOmain\obj\Debug\net10.0\Arohan.TMS.Domain.AssemblyInfo.cs
+H:\source\Arohan.TMS\src\Arohan.TMS.DOmain\obj\Debug\net10.0\Arohan.TMS.Domain.csproj.CoreCompileInputs.cache
+H:\source\Arohan.TMS\src\Arohan.TMS.DOmain\obj\Debug\net10.0\Arohan.TMS.Domain.dll
+H:\source\Arohan.TMS\src\Arohan.TMS.DOmain\obj\Debug\net10.0\refint\Arohan.TMS.Domain.dll
+H:\source\Arohan.TMS\src\Arohan.TMS.DOmain\obj\Debug\net10.0\Arohan.TMS.Domain.pdb
+H:\source\Arohan.TMS\src\Arohan.TMS.DOmain\obj\Debug\net10.0\ref\Arohan.TMS.Domain.dll

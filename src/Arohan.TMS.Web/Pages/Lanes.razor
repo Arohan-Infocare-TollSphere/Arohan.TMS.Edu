@@ -1,0 +1,49 @@
+@page "/lanes"
+@using Arohan.TMS.Application.Features.Lanes.Commands.CreateLane
+@using Arohan.TMS.Application.Features.Lanes.Queries.GetLanes
+@inject MediatR.IMediator Mediator
+
+<h3>Lanes</h3>
+
+@if (loading)
+{
+    <p><em>Loading...</em></p>
+}
+else
+{
+    <div>
+        <h4>Create Lane</h4>
+        <div class="mb-2">
+            <input @bind="newName" placeholder="Lane name" class="form-control" />
+        </div>
+        <div class="mb-2">
+            <input type="number" @bind="newPlazaId" placeholder="PlazaId" class="form-control" />
+        </div>
+        <button class="btn btn-primary" @onclick="CreateLane">Create</button>
+    </div>
+
+    <hr />
+
+    <h4>Existing Lanes</h4>
+    <table class="table table-striped">
+        <thead>
+            <tr>
+                <th>Name</th>
+                <th>PlazaId</th>
+                <th>AuthType</th>
+                <th>CreatedAt (UTC)</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var l in lanes)
+            {
+                <tr>
+                    <td>@l.Name</td>
+                    <td>@l.PlazaId</td>
+                    <td>@l.AuthType</td>
+                    <td>@l.CreatedAt.ToString("yyyy-MM-dd HH:mm:ss")</td>
+                </tr>
+            }
+        </tbody>
+    </table>
+}

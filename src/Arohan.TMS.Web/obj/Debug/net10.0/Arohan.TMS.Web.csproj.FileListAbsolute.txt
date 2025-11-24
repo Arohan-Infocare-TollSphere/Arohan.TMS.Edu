@@ -1,0 +1,5 @@
+H:\source\Arohan.TMS\src\Arohan.TMS.Web\obj\Debug\net10.0\Arohan.TMS.Web.csproj.AssemblyReference.cache
+H:\source\Arohan.TMS\src\Arohan.TMS.Web\obj\Debug\net10.0\Arohan.TMS.Web.GeneratedMSBuildEditorConfig.editorconfig
+H:\source\Arohan.TMS\src\Arohan.TMS.Web\obj\Debug\net10.0\Arohan.TMS.Web.AssemblyInfoInputs.cache
+H:\source\Arohan.TMS\src\Arohan.TMS.Web\obj\Debug\net10.0\Arohan.TMS.Web.AssemblyInfo.cs
+H:\source\Arohan.TMS\src\Arohan.TMS.Web\obj\Debug\net10.0\Arohan.TMS.Web.csproj.CoreCompileInputs.cache
